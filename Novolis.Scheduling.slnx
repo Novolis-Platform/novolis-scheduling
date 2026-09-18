@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Novolis.Scheduling.Cron/Novolis.Scheduling.Cron.csproj" />
+    <Project Path="src/Novolis.Scheduling/Novolis.Scheduling.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Novolis.Scheduling.Unit/Novolis.Scheduling.Unit.csproj" />
+  </Folder>
+</Solution>

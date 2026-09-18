@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Scheduling.Cron</PackageId>
+    <Description>Cron expression parsing and next-occurrence calculation (MIT, from Frank.CronJobs.Cron).</Description>
+    <IsPackable>true</IsPackable>
+    <RootNamespace>Novolis.Scheduling.Cron</RootNamespace>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
